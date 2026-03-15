@@ -1,7 +1,6 @@
 # Gemini Embedding 2 - 멀티모달 RAG 테스트 프로젝트
-
-pdf 다운 받아서 data/ 폴더에 넣을 것
-링크: google.com/url?q=https://www.nrich.go.kr/kor/subscriptionDataUsrView.do?menuIdx%3D1651%26idx%3D289%26gubun%3DJ&sa=D&source=docs&ust=1773574961640940&usg=AOvVaw1R5lsP9Blm8kDwMeHergOn
+아래 pdf 다운 받아서 data/ 폴더에 넣을 것     
+[다운로드 링크](https://www.nrich.go.kr/kor/subscriptionDataUsrView.do?menuIdx=1651&idx=289&gubun=J)
 
 ## 프로젝트 개요
 
